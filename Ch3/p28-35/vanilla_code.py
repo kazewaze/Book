@@ -1,5 +1,5 @@
 '''
-Multiple Inputs (Chapter 3 - Page 35):
+Multiple Inputs (Chapter 3 - Pages 28-35):
   - Vanilla Python Code (35 lines)
 '''
 

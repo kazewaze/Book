@@ -1,8 +1,8 @@
 '''
-Multiple Outputs (Chapter 3 - Page 36-37):
+Multiple Outputs (Chapter 3 - Pages 36-37):
 '''
 
-# Weights:
+# Weights [hurt pred, win pred, happy/sad pred]:
 weights = [0.3, 0.2, 0.9]
 
 # Data:
@@ -13,9 +13,7 @@ input = wlrec[0]
 
 # Element-wise Multiplication (vectors):
 def ele_mul(number, vector):
-    output = [0, 0, 0]
-
-    assert(len(output) == len(vector))
+    output = [0] * len(vector)
 
     for k in range(len(vector)):
         output[k] = number * vector[k]

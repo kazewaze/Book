@@ -6,6 +6,13 @@
 
 # My Code from Andrew Trask's book "grokking Deep Learning"
 
-[Go get your copy!](https://www.manning.com/books/grokking-deep-learning)
+[The Book can be purchased here!](https://www.manning.com/books/grokking-deep-learning)
 
 -------
+
+## Chapter 3 (Links to the Code):
+*challenges - (1)* --> [p31 (Vector Math Challenge)](https://github.com/kazewaze/Book/blob/main/Ch3/challenges/p31.py)
+* p24-27 --> [Simplest Neural Network](https://github.com/kazewaze/Book/blob/main/Ch3/p24-27.py)
+* p28-35 --> Multiple Inputs - [Vanilla](https://github.com/kazewaze/Book/blob/main/Ch3/p28-35/vanilla_code.py) & [NumPy](https://github.com/kazewaze/Book/blob/main/Ch3/p28-35/numpy_code.py)
+* p36-37 --> [Multiple Outputs](https://github.com/kazewaze/Book/blob/main/Ch3/p36-37.py)
+* p38-41 --> [Multiple Inputs & Outputs](https://github.com/kazewaze/Book/blob/main/Ch3/p38-41.py)
