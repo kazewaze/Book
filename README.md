@@ -15,4 +15,5 @@
 * p24-27 --> [Simplest Neural Network](https://github.com/kazewaze/Book/blob/main/Ch3/p24-27.py)
 * p28-35 --> Multiple Inputs - [Vanilla](https://github.com/kazewaze/Book/blob/main/Ch3/p28-35/vanilla_code.py) & [NumPy](https://github.com/kazewaze/Book/blob/main/Ch3/p28-35/numpy_code.py)
 * p36-37 --> [Multiple Outputs](https://github.com/kazewaze/Book/blob/main/Ch3/p36-37.py)
-* p38-41 --> [Multiple Inputs & Outputs](https://github.com/kazewaze/Book/blob/main/Ch3/p38-41.py)
+* p38-41 --> Multiple Inputs & Outputs - [Original Code](https://github.com/kazewaze/Book/blob/main/Ch3/p38-41/original_code.py) & [Extended Code](https://github.com/kazewaze/Book/blob/main/Ch3/p38-41/extended_code.py)
+* p42-43 --> Predicting on Predictions - [Vanilla](https://github.com/kazewaze/Book/blob/main/Ch3/p42-43/vanilla_code.py) & [NumPy](https://github.com/kazewaze/Book/blob/main/Ch3/p42-43/numpy_code.py)
