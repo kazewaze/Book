@@ -1,5 +1,5 @@
 '''
-Multiple Inputs & Outputs Experiment (Chapter 3 - Pages 38-41)
+Multiple Inputs & Outputs (Chapter 3 - Pages 38-41)
   - Extended Code (Not the original code in book)
   - "I extended the original code to include every game."
 '''
