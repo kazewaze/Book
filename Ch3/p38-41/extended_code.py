@@ -65,4 +65,4 @@ for w in range(len(weights)+1):
     final_prediction[w] = current_pred
 
 # Prediction:
-print(pretty_print(final_prediction))
+pretty_print(final_prediction)
