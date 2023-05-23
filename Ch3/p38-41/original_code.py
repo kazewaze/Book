@@ -16,7 +16,7 @@ nfans = [1.2, 1.3, 0.50, 1.0]
 # Input:
 input = [toes[0], wlrec[0], nfans[0]]
 
-# Weighted Sum (Dot Product) Function:
+# Weighted Sum (Dot Product):
 def w_sum(a, b):
     assert(len(a) == len(b))
 
@@ -27,7 +27,7 @@ def w_sum(a, b):
 
     return output
 
-# Vector-Matrix Multiplication Function:
+# Vector-Matrix Multiplication:
 def vec_mat_mul(vector, matrix):
     assert(len(vector) == len(matrix))
 
